@@ -1,0 +1,5 @@
+
+Update the domain:
+
+sed -i '' 's|https://capinog.github.io|http://localhost:8000|g' sitemap.xml
+

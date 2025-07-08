@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://capinog.github.io/index.html</loc>
+        <loc>http://localhost:8000/index.html</loc>
     </url>
     <url>
-        <loc>https://capinog.github.io/about.html</loc>
+        <loc>http://localhost:8000/about.html</loc>
     </url>
     <url>
-        <loc>https://capinog.github.io/services.html</loc>
+        <loc>http://localhost:8000/services.html</loc>
     </url>
     <url>
-        <loc>https://capinog.github.io/contact.html</loc>
+        <loc>http://localhost:8000/contact.html</loc>
     </url>
 </urlset>
